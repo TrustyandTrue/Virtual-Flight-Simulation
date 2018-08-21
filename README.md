@@ -1,3 +1,3 @@
 # Job-Portal
 
-An online job portal using VB.net
+An online job portal using ASP.net
